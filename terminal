@@ -1,0 +1,8 @@
+#include <iostream>\
+#Include<stdio.h>>
+using namespace std;
+int main() {
+	system("/system/bin/sh");
+
+	return 0;
+}
